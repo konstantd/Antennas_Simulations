@@ -272,7 +272,7 @@ Horizontal plane:
 Vertical plane:
 
 <p allign = "center">
-     <img src="/TV/Helical/photos/9.png"width = "50%">
+     <img src="/TV/photos/9.png"width = "50%">
 </p>
 
 Horizontal plane:
