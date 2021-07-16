@@ -1,4 +1,4 @@
-## Antennas
+# Antennas
 
 This repository contains the assignments for the Academic Course “Special Antennas-Antenna Synthesis" taught in the Spring of 2018-2019 in Aristotle University of Thessaloniki - Electrical & Computer Engineering. The goal of the Project is the analysis and optimization of three antennas with different parameters.  For the simulations **4NEC2 software** was used, after the construction of the geometry of the antennas using MATLAB.
 
@@ -18,7 +18,7 @@ The respective folders contain the Matlab files that were used for the design of
 
 ## 
 
-#### Discone Antnenna
+### Discone Antnenna
 
 Wavelength: λ=0.1m. Central fo=3Ghz.
 
@@ -110,7 +110,7 @@ We conclude that the more the cone opens, the fewer areas in this frequency band
 
 
 
-#### Helical antenna 
+### Helical antenna 
 
 
 
@@ -177,7 +177,7 @@ We can conclude that, as the frequency increases, the antenna radiates in the de
 
 
 
-#### Television Antenna
+### Television Antenna
 
 
 
