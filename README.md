@@ -119,23 +119,23 @@ We would like to design a helical antenna with 20 turns, C=λ for central freque
 
 
 <p allign = "center">
-     <img src="/Helical/photos/1.png"width = "70%">
+     <img src="/Helical/photos/1.png"width = "50%">
 </p>
 
 <p allign = "center">
-     <img src="/Helical/photos/2.png"width = "70%">
+     <img src="/Helical/photos/2.png"width = "50%">
 </p>
 
 For the frequency band [0.3fo - 2fo] in the below plot, we can see the change of real and imaginary part of the input impedance Zin. 
 
 <p allign = "center">
-     <img src="/Helical/photos/3.png"width = "70%">
+     <img src="/Helical/photos/3.png"width = "95%">
 </p>
 
 We observe that the absolute value of Zin is quite steady through the whole frequency band, excepting the initial frequencies. This is very desirable because, we can achieve a very good impedance matching for a big freq. band. Based on the above plot, we select   65 Ohm characteristic impedance and plot this time the Reflection Coef.
 
 <p allign = "center">
-     <img src="/Helical/photos/4.png"width = "70%">
+     <img src="/Helical/photos/4.png"width = "95%">
 </p>
 
 Indeed, as we can see, starting from 85Mhz, the Reflection coef. is already below -10dB and the antenna can work properly in a wide band.
@@ -149,22 +149,22 @@ In the below photo, we can see the radiation pattern of the antenna in different
 <u>f=0.7*fo</u>
 
 <p allign = "center">
-     <img src="/Helical/photos/7.png"width = "70%">
+     <img src="/Helical/photos/7.png"width = "50%">
 </p>
 
 <u>f=fo</u>
 
 <p allign = "center">
-     <img src="/Helical/photos/5.png"width = "70%">
+     <img src="/Helical/photos/5.png"width = "50%">
 </p>
 
 <p allign = "center">
-     <img src="/Helical/photos/6.png"width = "70%">
+     <img src="/Helical/photos/6.png"width = "50%">
 </p>
 <u>f=1.3*fo</u>
 
 <p allign = "center">
-     <img src="/Helical/photos/8.png"width = "70%">
+     <img src="/Helical/photos/8.png"width = "50%">
 </p>
 
 
@@ -186,7 +186,7 @@ The antenna in the photo below is a well known  TV receiving antenna.
 
 
 <p allign = "center">
-     <img src="/TV/photos/1.png"width = "70%">
+     <img src="/TV/photos/1.png"width = "45%">
 </p>
 
 
@@ -202,7 +202,7 @@ We would like to design the above antenna with central frequency of fo=60MHz. Ch
 
 
 <p allign = "center">
-     <img src="/TV/photos/2.png"width = "70%">
+     <img src="/TV/photos/2.png"width = "95%">
 </p>
 
 
@@ -210,7 +210,7 @@ We would like to design the above antenna with central frequency of fo=60MHz. Ch
 We choose Z1 = 90 Ohm. It is not the mean Zin in all the above freq. band, but we are more interested in frequencies around 60 Mhz as well as good operation in a wide band. Below, we can see the Reflection Coefficient after this change:
 
 <p allign = "center">
-     <img src="/TV/photos/3.png"width = "70%">
+     <img src="/TV/photos/3.png"width = "95%">
 </p>
 
 
