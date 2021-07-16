@@ -25,7 +25,7 @@ Wavelength: λ=0.1m. Central fo=3Ghz.
 The dimensions of the antenna are r = 0.3λ for the radius of the disc, l = 0.5λ for the length of the wires (of the cone) and 2*0 = 60 for total angle of the cone (θ= 30 from the axis).  We assume wire diameter λ / 100. In the design of the NEC file can be considered that the cone wires are connected at a common point a short distance (let d = λ / 20) down from the point where the disc wires connect (see photo, below). 
 
 <p allign = "center">
-     <img src="/Discone/photos/1.png"width = "70%">
+     <img src="/Discone/photos/1.png"width = "50%">
 </p>
 
 A small Matlab script was written that takes r, l, θ and d as variables and constructs
@@ -38,11 +38,11 @@ For the frequency band [0.5fo - 4fo] in the below plot, we can see the change of
 imaginary part of the input impedance Zin, as well as the reflection coefficient of the antenna.
 
 <p allign = "center">
-     <img src="/Discone/photos/2.png"width = "70%">
+     <img src="/Discone/photos/2.png"width = "95%">
 </p>
 
 <p allign = "center">
-     <img src="/Discone/photos/3.png"width = "70%">
+     <img src="/Discone/photos/3.png"width = "95%">
 </p>
 
 
@@ -52,7 +52,7 @@ We observe that the reflection coefficient is desirable (<-10db) only in one sma
 
 
 <p allign = "center">
-     <img src="/Discone/photos/4.png"width = "70%">
+     <img src="/Discone/photos/4.png"width = "95%">
 </p>
 
 
@@ -62,7 +62,7 @@ We observe that the reflection coefficient is desirable (<-10db) only in one sma
 Therefore, we set the characteristic impedance equal to Zo = 110, and run the simulations again for the SWR and the Reflection coefficient in the same frequency band.
 
 <p allign = "center">
-     <img src="/Discone/photos/5.png"width = "70%">
+     <img src="/Discone/photos/5.png"width = "95%">
 </p>
 
 
@@ -78,15 +78,15 @@ Below we can see the Radiation Pattern @f=fo=3Ghz at the Verical and Horizontal 
 
 
 <p allign = "center">
-     <img src="/Discone/photos/6.png"width = "70%">
+     <img src="/Discone/photos/6.png"width = "50%">
 </p>
 
 <p allign = "center">
-     <img src="/Discone/photos/7.png"width = "70%">
+     <img src="/Discone/photos/7.png"width = "50%">
 </p>
 
 <p allign = "center">
-     <img src="/Discone/photos/8.png"width = "70%">
+     <img src="/Discone/photos/8.png"width = "50%">
 </p>
 
 
@@ -95,11 +95,11 @@ We continue with the diagrams of the reflection coefficient, changing the angle
 2θ = 10, and 150 degrees while keeping all other parameters unchanged, in order to see the behavior of the antenna. 
 
 <p allign = "center">
-     <img src="/Discone/photos/9.png"width = "70%">
+     <img src="/Discone/photos/9.png"width = "95%">
 </p>
 
 <p allign = "center">
-     <img src="/Discone/photos/10.png"width = "70%">
+     <img src="/Discone/photos/10.png"width = "95%">
 </p>
 
 
@@ -228,13 +228,13 @@ In the below photos, we can see the radiation pattern of the antenna in differen
 Vertical plane:
 
 <p allign = "center">
-     <img src="/TV/photos/4.png"width = "70%">
+     <img src="/TV/photos/4.png"width = "50%">
 </p>
 
 Horizontal plane:
 
 <p allign = "center">
-     <img src="/TV/photos/5.png"width = "70%">
+     <img src="/TV/photos/5.png"width = "50%">
 </p>
 
 
@@ -246,7 +246,7 @@ Horizontal plane:
 Vertical plane:
 
 <p allign = "center">
-     <img src="/TV/photos/6.png"width = "70%">
+     <img src="/TV/photos/6.png"width = "50%">
 </p>
 
 Horizontal plane:
@@ -254,13 +254,13 @@ Horizontal plane:
 
 
 <p allign = "center">
-     <img src="/TV/photos/7.png"width = "70%">
+     <img src="/TV/photos/7.png"width = "50%">
 </p>
 
 3D diargam:
 
 <p allign = "center">
-     <img src="/TV/photos/8.png"width = "70%">
+     <img src="/TV/photos/8.png"width = "50%">
 </p>
 
 
@@ -272,13 +272,13 @@ Horizontal plane:
 Vertical plane:
 
 <p allign = "center">
-     <img src="/Helical/photos/9.png"width = "70%">
+     <img src="/Helical/photos/9.png"width = "7500%">
 </p>
 
 Horizontal plane:
 
 <p allign = "center">
-     <img src="/TV/photos/10.png"width = "70%">
+     <img src="/TV/photos/10.png"width = "50%">
 </p>
 
 
