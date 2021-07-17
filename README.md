@@ -126,7 +126,7 @@ We would like to design a helical antenna with 20 turns, C=λ for central freque
 For the frequency band [0.3fo - 2fo] in the below plot, we can see the change the absolute value and phase of the input impedance Zin. 
 
 <p allign = "center">
-     <img src="/Helical/photos/3.png"width = "95%">
+     <img src="/Helical/photos/3.png"width = "82%">
 </p>
 
 We observe that the absolute value of Zin is quite steady through the whole frequency band, excepting the initial frequencies. This is very desirable because, we can achieve a very good impedance matching for a big freq. band. Based on the above plot, we select 65 Ohm characteristic impedance and plot the Reflection Coef.
