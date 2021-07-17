@@ -73,17 +73,17 @@ Below we can see the <ins>Radiation Pattern</ins> @f=fo=3Ghz at the Verical and 
 
 
 <p allign = "center">
-     <img src="/Discone/photos/6.png"width = "50%">
+     <img src="/Discone/photos/6.png"width = "40%">
 </p>
 
 <p allign = "center">
-     <img src="/Discone/photos/7.png"width = "50%">
+     <img src="/Discone/photos/7.png"width = "40%">
 </p>
 
 <ins>3D Radiation Pattern:</ins>
 
 <p allign = "center">
-     <img src="/Discone/photos/8.png"width = "50%">
+     <img src="/Discone/photos/8.png"width = "40%">
 </p>
 
 
@@ -116,11 +116,11 @@ We would like to design a helical antenna with 20 turns, C=λ for central freque
 
 
 <p allign = "center">
-     <img src="/Helical/photos/1.png"width = "50%">
+     <img src="/Helical/photos/1.png"width = "40%">
 </p>
 
 <p allign = "center">
-     <img src="/Helical/photos/2.png"width = "50%">
+     <img src="/Helical/photos/2.png"width = "40%">
 </p>
 
 For the frequency band [0.3fo - 2fo] in the below plot, we can see the change the absolute value and phase of the input impedance Zin. 
@@ -146,25 +146,25 @@ In the below photo, we can see the radiation pattern of the antenna in different
 <ins>f=0.7*fo</ins>
 
 <p allign = "center">
-     <img src="/Helical/photos/7.png"width = "50%">
+     <img src="/Helical/photos/7.png"width = "40%">
 </p>
 
 <ins>f=fo</ins>
 
 <p allign = "center">
-     <img src="/Helical/photos/5.png"width = "50%">
+     <img src="/Helical/photos/5.png"width = "40%">
 </p>
 
 <ins>3D Radiation pattern at cental frequency fo</ins>
 
 <p allign = "center">
-     <img src="/Helical/photos/6.png"width = "50%">
+     <img src="/Helical/photos/6.png"width = "40%">
 </p>
 
 <ins>f=1.3*fo</ins>
 
 <p allign = "center">
-     <img src="/Helical/photos/8.png"width = "50%">
+     <img src="/Helical/photos/8.png"width = "40%">
 </p>
 
 
@@ -186,7 +186,7 @@ The antenna in the photo below is a well known  TV receiving antenna.
 
 
 <p allign = "center">
-     <img src="/TV/photos/1.png"width = "45%">
+     <img src="/TV/photos/1.png"width = "35%">
 </p>
 
 
@@ -228,13 +228,13 @@ In the below photos, we can see the radiation pattern of the antenna in differen
 Vertical plane:
 
 <p allign = "center">
-     <img src="/TV/photos/4.png"width = "50%">
+     <img src="/TV/photos/4.png"width = "40%">
 </p>
 
 Horizontal plane:
 
 <p allign = "center">
-     <img src="/TV/photos/5.png"width = "50%">
+     <img src="/TV/photos/5.png"width = "40%">
 </p>
 
 
@@ -246,7 +246,7 @@ Horizontal plane:
 Vertical plane:
 
 <p allign = "center">
-     <img src="/TV/photos/6.png"width = "50%">
+     <img src="/TV/photos/6.png"width = "40%">
 </p>
 
 Horizontal plane:
@@ -254,13 +254,13 @@ Horizontal plane:
 
 
 <p allign = "center">
-     <img src="/TV/photos/7.png"width = "50%">
+     <img src="/TV/photos/7.png"width = "40%">
 </p>
 
 3D diargam @cenreal freq:
 
 <p allign = "center">
-     <img src="/TV/photos/8.png"width = "50%">
+     <img src="/TV/photos/8.png"width = "40%">
 </p>
 
 
@@ -272,13 +272,13 @@ Horizontal plane:
 Vertical plane:
 
 <p allign = "center">
-     <img src="/TV/photos/9.png"width = "50%">
+     <img src="/TV/photos/9.png"width = "40%">
 </p>
 
 Horizontal plane:
 
 <p allign = "center">
-     <img src="/TV/photos/10.png"width = "50%">
+     <img src="/TV/photos/10.png"width = "40%">
 </p>
 
 
