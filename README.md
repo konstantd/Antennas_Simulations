@@ -1,4 +1,4 @@
-# Antennas
+# Antennas Simulations
 
 This repository contains the assignments for the Academic Course “Special Antennas-Antenna Synthesis" taught in the Spring of 2018-2019 in Aristotle University of Thessaloniki - Electrical & Computer Engineering. The goal of the Project is the analysis and optimization of three antennas with different parameters.  For the simulations **4NEC2 software** was used, after the construction of the geometry of the antennas using MATLAB.
 
@@ -28,7 +28,7 @@ The dimensions of the antenna are r = 0.3λ for the radius of the disc, l = 0.5�
      <img src="/Discone/photos/1.png"width = "50%">
 </p>
 
-A small Matlab script was written that takes r, l, θ and d as variables and constructs
+A Matlab script was written that takes r, l, θ and d as variables and constructs
 the geometry of the antenna. Specifically, it will build GW lines, as accepted by the
 NEC file (.nec).
 
