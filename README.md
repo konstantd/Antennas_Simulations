@@ -171,7 +171,7 @@ In the below photo, we can see the radiation pattern of the antenna in different
 
 
 
-We can conclude that, as the frequency increases, the antenna radiates in the desired **axial mode**. (At low frequencies we have a **normal mode** behaviour). The main lobe is desirably at 0 degrees and max gain is  18dBi @fo. Furthermore, **HPBW** decreases, when the frequency ranges around the cenrtal fo.  Also, the **back lobe** is insignificant. One disadvantage is that there are a lot of **side lobes**, which are minor only mainly for our central frequency. Side lobes increase while the frequency increases respectively.
+We can conclude that, as the frequency increases, the antenna radiates in the desired **axial mode**. (At low frequencies we have a **normal mode** behaviour). The main lobe is desirably at 0 degrees and max gain is  18dBi @fo. Furthermore, **HPBW** decreases, when the frequency ranges around the cenrtal fo.  Also, the **back lobe** is insignificant. One disadvantage is that there are a lot of **side lobes**, which are not minor in higher frequencies. The number of Side lobes, as well as their gain increase while the frequency increases respectively.
 
 
 
