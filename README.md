@@ -10,7 +10,7 @@ The antennas which were analysed are:
 
 - Television Antenna with 4 sets of crossed dipoles and a reflector
 
-The behavior of each antenna was studied and explained through simulations (such as Input impedance of the antenna, 2D or 3D radiation patterns, Reflection Coefficient and SWR) that were considered for different wavelengths and frequency bands in order to draw conlcusions regarding broadband operations. 
+The behavior of each antenna was studied and explained through simulations (such as Input impedance of the antenna, 2D or 3D radiation patterns, Reflection Coefficient and SWR) that were considered for different wavelengths and frequency bands in order to draw conlcusions regarding broadband operations or resonances. 
 
 
 
@@ -101,7 +101,7 @@ We continue with the diagrams of the reflection coefficient, changing the angle
 
 
 
-We conclude that the more the cone opens, the fewer the zones in this frequency band in which satisfactory operation is achieved. In fact, for larger angles the reflection coefficient  changes abruptly in some frequencies and more specifically at 6.4Ghz suddenly achieves very good operation, but anywhere else behaves quite undesirably.
+The discone antenna tends to behave as a λ/2 dipole in the central frequency of 3 Ghz. As we can see in the vertical plane radiation patter, a difference is that the maximum gain has been shifted towards θ=115 degrees (instead of 90 in λ/2 dipole). This happens because of the circular disc. In higher frequencies the discone creates 2 z-axis symmetrical lobes, ranging between +-130 and +-160 degrees. Regarding the angle of the cone, we conclude that the more the cone opens, the fewer the zones in this frequency band in which satisfactory operation is achieved. In fact, for larger angles the reflection coefficient  changes abruptly in some frequencies and more specifically there is a reasonance frequency at 6.4Ghz.
 
 
 
@@ -285,7 +285,7 @@ Horizontal plane:
 
 
 
-The HPBW is quite large at 30Mhz. Furthermore. the side lobes and the back lobe (which are only 2) are unimportant @30Mhz and @60Mhz. Max gain @60Mhz is 14dBi at the vertical plane and almost 11.5 @30 and@ 90 Mhz. While the frequency increases, @90Mhz, we observe that a lot of side lobes have been generated and now the main lobe cannot be distinguished. On the other hand, for all these frequencies the maximum gain is at the desired direction.
+The HPBW is quite large at 30Mhz. Furthermore. the side lobes and the back lobe (which are only 2) are unimportant @30Mhz and @60Mhz. Max gain @60Mhz is 14dBi at the vertical plane and almost 11.5 @30 and@ 90 Mhz. While the frequency increases, @90Mhz, we observe that a lot of side lobes have been generated and now the main lobe cannot be distinguished. On the other hand, for all these frequencies the maximum gain is at the desired direction. 
 
 
 
