@@ -143,13 +143,13 @@ Indeed, as we can see, starting from 85Mhz, the Reflection coef. is already belo
 
 In the below photo, we can see the radiation pattern of the antenna in different frequencies.
 
-<ins>f=0.7*fo</ins>
+<ins>f=0.7*fo= 70 Mhz</ins>
 
 <p allign = "center">
      <img src="/Helical/photos/7.png"width = "40%">
 </p>
 
-<ins>f=fo</ins>
+<ins>f=fo=100 Mhz</ins>
 
 <p allign = "center">
      <img src="/Helical/photos/5.png"width = "40%">
@@ -161,7 +161,7 @@ In the below photo, we can see the radiation pattern of the antenna in different
      <img src="/Helical/photos/6.png"width = "40%">
 </p>
 
-<ins>f=1.3*fo</ins>
+<ins>f=1.3*fo=130 Mhz</ins>
 
 <p allign = "center">
      <img src="/Helical/photos/8.png"width = "40%">
@@ -221,7 +221,7 @@ We obsreve that our antenna is quite broadband now. For frequnecies around [52-6
 
 In the below photos, we can see the radiation pattern of the antenna in different frequencies in vertical and horizontal plane.
 
-<ins>f=0.5*fo=30Mhz</ins>
+<ins>f=0.5*fo=30 Mhz</ins>
 
 
 
@@ -241,7 +241,7 @@ Horizontal plane:
 
 
 
-<ins>f=fo=60Mhz</ins>
+<ins>f=fo=60 Mhz</ins>
 
 Vertical plane:
 
@@ -267,7 +267,7 @@ Horizontal plane:
 
 
 
-<ins>f=1.5*fo=90Mhz</ins>
+<ins>f=1.5*fo= 90 Mhz</ins>
 
 Vertical plane:
 
